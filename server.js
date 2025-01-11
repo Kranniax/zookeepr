@@ -2,7 +2,7 @@ const express = require("express");
 const fs = require("fs");
 const path = require("path");
 const { animals } = require("./data/animals");
-const { type } = require("os");
+// const { type } = require("os");
 
 const PORT = process.env.PORT || 3001;
 
