@@ -126,6 +126,24 @@
         "lazy"
       ],
       "id": "12"
+    },
+    {
+      "name": "Shane Wade ",
+      "species": "Tiger ",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Peter ",
+      "species": "Whale ",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "14"
     }
   ]
 }
