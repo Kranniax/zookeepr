@@ -144,6 +144,15 @@
         "loving"
       ],
       "id": "14"
+    },
+    {
+      "name": "Tim Tortan ",
+      "species": "Fish ",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "15"
     }
   ]
 }
