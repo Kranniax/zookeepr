@@ -7,6 +7,8 @@ const {
 } = require("../lib/zookeepers.js");
 const { zookeepers } = require("../data/zookeepers");
 
+jest.mock("fs");
+
 test("creates an zookeeper object", () => {
   const zookeeper = createNewZookeeper(
     { name: "Darlene", id: "jhgdja3ng2" },

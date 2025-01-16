@@ -61,12 +61,22 @@
       "id": "9"
     },
     {
-      "name": "Darlene",
-      "id": "jhgdja3ng2"
+      "name": "Bell ",
+      "age": 30,
+      "favoriteAnimal": "Tiger ",
+      "id": "12"
     },
     {
-      "name": "Darlene",
-      "id": "jhgdja3ng2"
+      "name": "Tim",
+      "age": 30,
+      "favoriteAnimal": "Whale",
+      "id": "13"
+    },
+    {
+      "name": "Joe",
+      "age": 35,
+      "favoriteAnimal": "Lion",
+      "id": "12"
     }
   ]
 }
