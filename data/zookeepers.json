@@ -77,6 +77,18 @@
       "age": 35,
       "favoriteAnimal": "Lion",
       "id": "12"
+    },
+    {
+      "name": "Nate",
+      "age": 30,
+      "favoriteAnimal": "Dog",
+      "id": "13"
+    },
+    {
+      "name": "Shane",
+      "age": 28,
+      "favoriteAnimal": "Wolf",
+      "id": "14"
     }
   ]
 }
